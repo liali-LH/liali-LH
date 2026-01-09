@@ -1,16 +1,16 @@
-## Hi there 👋
+## 任何人，你好
+- 来自中国的中文使用者，会使用翻译器交流与查看信息
+- 编程0基础，短期内也无系统学习计划，依靠部分项目使用经验摸索中
+- 前进的动力是兴趣
+- 绘画痛恨者
+- □□享受者
+- 作息紊乱无法改正者
+- MMD学习中，下一步是VRoid，然后是建模（可能10年后）
+- 如头像所示，曾是《非人学园》玩家，现在依然是爱好者
 
-<!--
-**liali-LH/liali-LH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 网易游戏我恨你一辈子![标签](https://img.shields.io/badge/网易-死了-red)
+- 目前致力于已停服游戏《非人学园》的资源提取、留存与整理
+- 即将致力于已停运游戏《阴阳师：百闻牌》的资源提取、留存与整理
+- 希望能致力于游戏《阴阳师》的资源提取、留存与整理
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 非人学园交流群：962244184
